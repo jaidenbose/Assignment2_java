@@ -1,0 +1,17 @@
+[
+  {
+    "id": "101",
+    "authorId": "1",
+    "postContent": "Post by Justin"
+  },
+  {
+    "id": "102",
+    "authorId": "2",
+    "postContent": "Post by Jaiden"
+  },
+  {
+    "id": "103",
+    "authorId": "1",
+    "postContent": "Another post by Justin"
+  }
+]
